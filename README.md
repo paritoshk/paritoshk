@@ -35,11 +35,11 @@ Here are some ideas to get you started:
   
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ### Follow me on Linkedin
-<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="[[https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2679&q=80](https://img.icons8.com/ios-glyphs/344/linkedin-circled--v1.png)](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"> 
+<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"> 
 
 ### Google Scholar 
 
-<a target="Linkedin" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en"><img src="🎓" title="GScholart:Paritosh.K" alt="Connect with me on GScholar"> 
+<a target="GScholar" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/graduation-cap_1f393.png" title="GScholart:Paritosh.K" alt="Connect with me on GScholar"> 
 
 ### Check out my latest articles
 ## 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
