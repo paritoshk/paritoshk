@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### Check out my latest articles
-<a target="NLP and AI Ethics" href="https://towardsdatascience.com/how-to-transform-technical-jargon-into-simple-bi-tri-grams-with-nlp-on-a-public-dataset-2081f5609c1f"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" alt="Recent Article 0"> 
+<a target="NLP and AI Ethics" href="https://towardsdatascience.com/how-to-transform-technical-jargon-into-simple-bi-tri-grams-with-nlp-on-a-public-dataset-2081f5609c1f"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" title="How to Create Hashtags with NLP, Viewed Through a Social Justice Lens" alt="Recent Article 0"> 
 
     
 
