@@ -34,15 +34,17 @@ Here are some ideas to get you started:
 
   
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-### Follow me on Linkedin
+# Get Connected
+
+## Follow me on Linkedin
 <a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"> 
 
-### Google Scholar 
+## Google Scholar 
 
 <a target="GScholar" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/graduation-cap_1f393.png" title="GScholart:Paritosh.K" alt="Connect with me on GScholar"> 
 
-### Check out my latest articles
-## 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
+# Check out my latest articles
+### 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
 <a target="NLP and AI Ethics" href="https://towardsdatascience.com/how-to-transform-technical-jargon-into-simple-bi-tri-grams-with-nlp-on-a-public-dataset-2081f5609c1f"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" title="How to Create Hashtags with NLP, Viewed Through a Social Justice Lens" alt="Recent Article"> 
 
 
