@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 **paritoshk/paritoshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m currently working on : Creating algorithms to automate dealflow process and find catalysts in market with NLP to enrich thematic investing.
-- 👯 I’m looking to collaborate on : NLP and AI powered models for dealflow sourcing and automation, and creating software for C- suite.
-- 🤔 I’m looking for help with : Porflio construction tool I am building at the moment. 
-- 💬 Ask me about : AI Ethics, NLP in finding outliers in unstructured and underfitted data, finding needles in haystack problems.
+- 🔭 I'm currently working on: Creating algorithms to automate the deal flow process and find catalysts in the market with NLP to enrich thematic investing.
+- 👯 I'm looking to collaborate on: NLP and AI-powered models for deal flow sourcing and automation and creating software for C- the suite.
+- 🤔 I'm looking for help with the Portfolio construction tool I am building now.
+- 💬 Ask me about AI Ethics, NLP in finding outliers in unstructured and under-fitted data, and finding needles in haystack problems.
 - 📫 How to reach me: pck2123@columbia.edu
-- :zap: I enjoy predicitive modeling of biochemical, clincial and financial processes. I geek on human brain, chess and cocktails. 
-- 🌱 I’m addicted to curiosity and cold start problems in venture. I am learning of intersection between NLP and Network Theory to create curated graph neural network for niche VC investors, PE firms and family fund offices.
-
-- ⚡ Fun fact: I always have identity matrix with a lambda (eigen value) as my equinox locker code depending on the number of the day in the month. It could be [X 0 X 0] or [0 X 0 X] where X will be the function of day and the rank of the week in that month. If you can decode the function - ping me! 
+- ⚡ I enjoy predictive modeling of biochemical, clinical, and financial processes. I geek on the human brain, chess, and cocktails.
+- 🌱 I'm addicted to curiosity and cold start problems in the venture. I am learning about the intersection between NLP and Network Theory to create a curated graph neural network for niche VC investors, PE firms, and family fund offices.
+- ⚡ Fun fact: I always have an identity matrix with a lambda (eigenvalue) as my equinox locker code depending on the number of days in the month. It could be [X 0 X 0] or [0 X 0 X], where X will be the output of the day's function F(D) and the week's rank in that month. If you can decode the function - ping me! 
+- Hint- Think of the distribution of a discrete random variable (lambda)
 
 
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
