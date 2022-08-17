@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pck2123@columbia.edu
 - ⚡ I enjoy predictive modeling of biochemical, clinical, and financial processes. I geek on the human brain, chess, and cocktails.
 - 🌱 I'm addicted to curiosity and cold start problems in the venture. I am learning about the intersection between NLP and Network Theory to create a curated graph neural network for niche VC investors, PE firms, and family fund offices.
-- ⚡ Fun fact: I always have an identity matrix with a lambda (eigenvalue) as my equinox locker code depending on the number of days in the month. It could be [X 0 X 0] or [0 X 0 X], where X will be the output of the day's function F(D) and the week's rank in that month. If you can decode the function - ping me! 
+- ⚡ Fun fact: I create identity matrix with a lambda (eigenvalue) as my equinox locker code depending on the number of days in the month. It could be [X 0 X 0] or [0 X 0 X], where X will be the output of the day's function F(D) and the week's rank in that month. If you can decode the function - ping me! 
 - Hint- Think of the distribution of a discrete random variable (lambda)
 
 
