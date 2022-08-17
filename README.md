@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 # My latest projects 
+
 1. Clinical trail alert app (Pivotal Life Sciences):
+
 [streamlit-trial_display_app-2022-08-17-15-08-99.webm](https://user-images.githubusercontent.com/9400939/185254013-3ae7ffd5-a4e5-4447-8356-f85b483c4321.webm)
 
 2. Equity Connect 
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 
 ### 2. A Brief Guide to the Art of Microdosing
 
-<a target="microdosing" href="  https://medium.com/@paritoshk/a-brief-guide-to-the-art-of-microdosing-part-i-1818c6268e65"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" title="A Brief Guide to the Art of Microdosing" alt="Recent Article II "> 
+<a target="microdosing" href="  https://medium.com/@paritoshk/a-brief-guide-to-the-art-of-microdosing-part-i-1818c6268e65"><img src="https://miro.medium.com/max/700/0*g3n78E4001QU3auC" title="A Brief Guide to the Art of Microdosing" alt="Recent Article II "> 
 
 
 
