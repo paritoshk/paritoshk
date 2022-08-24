@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I'm currently working on: Creating algorithms to automate the deal flow process and find catalysts in the market with NLP to enrich thematic investing.
-- 👯 I'm looking to collaborate on: NLP and AI-powered models for deal flow sourcing and automation and creating software for C- the suite.
+- 👯 I'm looking to collaborate on: NLP and AI-powered models for deal flow sourcing and automation and creating software for portflio managers.
 - 🤔 I'm looking for help with the Portfolio construction tool I am building now.
 - 💬 Ask me about AI Ethics, NLP in finding outliers in unstructured and under-fitted data, and finding needles in haystack problems.
 - 📫 How to reach me: pck2123@columbia.edu
