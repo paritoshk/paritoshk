@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 
 2. Equity Connect 
 
-[streamlit-equity_map-2022-08-17-15-08-33.webm](https://user-images.githubusercontent.com/9400939/185254513-ef1ebc4e-57f7-4b60-ae1e-666c6fe3d85f.webm)
+
+https://user-images.githubusercontent.com/9400939/193925897-a79a3d72-62f4-48d2-8a94-7a40db583a77.mov
+
 
 
 3. Genes network 
