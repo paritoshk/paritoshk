@@ -63,9 +63,5 @@ https://user-images.githubusercontent.com/9400939/193925897-a79a3d72-62f4-48d2-8
 ### 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
 <a target="NLP and AI Ethics" href="https://towardsdatascience.com/how-to-transform-technical-jargon-into-simple-bi-tri-grams-with-nlp-on-a-public-dataset-2081f5609c1f"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" title="How to Create Hashtags with NLP, Viewed Through a Social Justice Lens" alt="Recent Article I"> 
 
-### 2. A Brief Guide to the Art of Microdosing
-
-<a target="microdosing" href="  https://medium.com/@paritoshk/a-brief-guide-to-the-art-of-microdosing-part-i-1818c6268e65"><img src="https://miro.medium.com/max/700/0*g3n78E4001QU3auC" title="A Brief Guide to the Art of Microdosing" alt="Recent Article II "> 
-
 
 
