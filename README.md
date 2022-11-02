@@ -41,20 +41,14 @@ Here are some ideas to get you started:
 
 # My latest projects 
 
-1. Clinical trail alert app (Pivotal Life Sciences):
 
-[streamlit-trial_display_app-2022-08-17-15-08-99.webm](https://user-images.githubusercontent.com/9400939/185254013-3ae7ffd5-a4e5-4447-8356-f85b483c4321.webm)
-
-2. Equity Connect 
+ Equity Connect 
 
 
 https://user-images.githubusercontent.com/9400939/193925897-a79a3d72-62f4-48d2-8a94-7a40db583a77.mov
 
 
 
-3. Genes network 
-
-[streamlit-pyvis_network_app-2022-08-17-15-08-60.webm](https://user-images.githubusercontent.com/9400939/185256415-1734d760-77f8-451b-9827-6a3b8d93a48a.webm)
 
 # Get Connected
 
