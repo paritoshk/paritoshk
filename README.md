@@ -39,13 +39,7 @@ Here are some ideas to get you started:
 
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-# My latest projects 
 
-
- Equity Connect 
-
-
-https://user-images.githubusercontent.com/9400939/193925897-a79a3d72-62f4-48d2-8a94-7a40db583a77.mov
 
 
 
