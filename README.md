@@ -57,9 +57,4 @@ Here are some ideas to get you started:
 ### 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
 <a target="NLP and AI Ethics" href="https://towardsdatascience.com/how-to-transform-technical-jargon-into-simple-bi-tri-grams-with-nlp-on-a-public-dataset-2081f5609c1f"><img src="https://miro.medium.com/max/700/0*EFdrhqxHSzaEaUSp" title="How to Create Hashtags with NLP, Viewed Through a Social Justice Lens" alt="Recent Article I"> 
 
-# My Resume 
- 
-  [ Link to my resume ]
- (https://github.com/paritoshk/paritoshk/files/10304539/Paritosh_Biotech_NLP._.Algo.Engineer.-.Data.Scientist.pdf)
-
 
