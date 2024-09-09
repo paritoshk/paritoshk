@@ -40,12 +40,11 @@ Here are some ideas to get you started:
 # Get Connected
 
 ## Follow me on Linkedin
-<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"
-> 
+<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"> 
 
 ## Google Scholar 
 
-<a target="GScholar" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/graduation-cap_1f393.png" title="GScholart:Paritosh.K" alt="Connect with me on GScholar"> 
+<a target="GScholar" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en">
 
 # Check out my latest articles
 ### 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
