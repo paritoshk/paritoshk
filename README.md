@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Google Scholar 
 
-<a target="GScholar" href="https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en">
+https://scholar.google.com/citations?user=ylTi8DIAAAAJ&hl=en 
 
 # Check out my latest articles
 ### 1 . How to Create Hashtags with NLP, Viewed Through a Social Justice Lens
