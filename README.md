@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/KhuyenTran16)
-
-
 
 ### Hi there. I'm Paritosh 👋
 
@@ -27,27 +24,24 @@ Here are some ideas to get you started:
 **paritoshk/paritoshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I'm currently working on: Creating algorithms to automate the deal flow process and find catalysts in the market with NLP to enrich thematic investing.
-- 👯 I'm looking to collaborate on: NLP and AI-powered models for deal flow sourcing and automation and creating software for portflio managers.
-- 🤔 I'm looking for help with the Portfolio construction tool I am building now.
+- 🔭 I'm currently working on: Fine-tuning SMLs and LLMs and having guardrails post-fine-tuning.
+- 👯 I'm looking to collaborate on: NLP and AI-powered models for designing a marketplace for employers so their teams can navigate benefits, share experiences, and collaborate across organizations without disclosing their identity. 
+- 🤔 I'm looking for help - AI Assistant for Health Insurance Benefits (and beyond). 
 - 💬 Ask me about AI Ethics, NLP in finding outliers in unstructured and under-fitted data, and finding needles in haystack problems.
 - 📫 How to reach me: pck2123@columbia.edu
 - ⚡ I enjoy predictive modeling of biochemical, clinical, and financial processes. I geek on the human brain, chess, and cocktails.
 - 🌱 I'm addicted to curiosity and cold start problems in the venture. I am learning about the intersection between NLP and Network Theory to create a curated graph neural network for niche VC investors, PE firms, and family fund offices.
-- ⚡ Fun fact: I could play drums in the air with music and play chess without a chess board! 
+- ⚡ Fun fact: I could play drums in the air with music and play chess without a chessboard! 
 
 
 [![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=paritoshk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
 # Get Connected
 
 ## Follow me on Linkedin
-<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"> 
+<a target="Linkedin" href="https://www.linkedin.com/in/paritoshkul/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" title="Linkedin:Paritosh.K" alt="Connect with me on Linkedin"
+> 
 
 ## Google Scholar 
 
