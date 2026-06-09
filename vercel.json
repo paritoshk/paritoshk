@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/ucm",
+      "destination": "https://getcontextmanaged.vercel.app",
+      "permanent": false
+    },
+    {
+      "source": "/ucm/:path*",
+      "destination": "https://getcontextmanaged.vercel.app/:path*",
+      "permanent": false
+    }
+  ]
+}
